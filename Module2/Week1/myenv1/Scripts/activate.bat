@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\ASUS\Documents\AI\AIO-Exercise\myenv1
+set VIRTUAL_ENV=C:\Users\ASUS\Documents\AI\AIO-Exercise\Module2\Week1\myenv1
 
 if not defined PROMPT set PROMPT=$P$G
 
